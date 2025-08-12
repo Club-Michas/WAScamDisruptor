@@ -27,7 +27,11 @@ pip install selenium
 ```
 
 ### 3. Download Edge WebDriver
-Visit the Microsoft Edge WebDriver download page
+Visit the Microsoft Edge WebDriver download page:
+
+```bash
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads
+```
 
 Download the x64 version that matches your Edge browser
 
