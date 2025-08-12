@@ -24,23 +24,23 @@ Make sure Python is installed, then run:
 
 ```bash
 pip install selenium
+```
 
-
-3. Download Edge WebDriver
+### 3. Download Edge WebDriver
 Visit the Microsoft Edge WebDriver download page
 
 Download the x64 version that matches your Edge browser
 
 Place msedgedriver.exe in the same folder as WAScamDisruptor.py
 
-4. Configure the Script
+### 4. Configure the Script
 Open WAScamDisruptor.py and update:
 
 The path to msedgedriver.exe under # Use Edge WebDriver
 
 The group name under # Search for the group (replace "TYPE IN THE SCAM GROUP HERE")
 
-5. Run the Script
+### 5. Run the Script
 Open Command Prompt as Administrator
 
 Navigate to the script folder:
@@ -57,7 +57,7 @@ Once logged in, return to the Command Prompt and press Enter
 
 Let the disruption begin.
 
-🤝 Contributing
+### 🤝 Contributing
 Pull requests welcome! You can contribute by:
 
 Adding new message packs
@@ -66,10 +66,10 @@ Improving platform compatibility
 
 Suggesting new features or enhancements
 
-📄 License
+### 📄 License
 MIT License – free to use, modify, and share.
 
-🙌 Credits
+### 🙌 Credits
 Inspired by the scambaiting efforts of:
 
 Kitboga: https://www.youtube.com/@KitbogaShow
