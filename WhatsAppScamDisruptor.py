@@ -41,7 +41,7 @@ messages = [
     " Don't ever Trust those Fools, they are Scamming you, no reward",
     " Say no to Scams, do not send them a single Penny, you will get Scammed",
     " WARNING: This group promotes fraudulent schemes. Leave immediately.",
-    " Don’t be fooled—this is a scam operation targeting innocent people.",
+    " Don’t be fooled, this is a scam operation targeting innocent people.",
     " They promise rewards, but all they want is your personal data and money.",
     " No legit company asks for screenshots or verification codes. It’s a trap.",
     " Scammers use fake profiles to build trust, don’t fall for it.",
@@ -54,7 +54,7 @@ messages = [
     " These scammers are exploiting people for profit. Don’t let them win.",
     " If it sounds too good to be true, it’s probably a scam.",
     " Don’t risk your money or data. Leave this group now.",
-    " Educate others—share scam awareness and expose these frauds."
+    " Educate others, share scam awareness and expose these frauds."
 
 ]
 
@@ -73,4 +73,5 @@ while True:
     except Exception as e:
         print(f" Error at message {count}: {e}")
         time.sleep(10)
+
 
