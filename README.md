@@ -1,6 +1,6 @@
-# WhatsAppScamDisruptor 🚫📱
+# WAScamDisruptor 🚫📱
 
-**WhatsAppScamDisruptor** is a lightweight, open-source Python script designed to ethically disrupt scam operations on WhatsApp by flooding scam groups with automated messages. Inspired by the scambaiting community, this tool helps raise awareness and waste scammers’ time, so they have less of it to target real victims.
+**WAScamDisruptor** is a lightweight, open-source Python script designed to ethically disrupt scam operations on WhatsApp by flooding scam groups with automated messages. Inspired by the scambaiting community, this tool helps raise awareness and waste scammers’ time, so they have less of it to target real victims.
 
 > ⚠️ For educational and awareness purposes only. Use responsibly.
 
@@ -17,7 +17,7 @@
 ## 🚀 Getting Started
 
 ### 1. Download the Script
-Grab the `WhatsAppScamDisruptor.py` file from this repository.
+Grab the `WAScamDisruptor.py` file from this repository.
 
 ### 2. Install Dependencies
 Make sure Python is installed, then run:
@@ -31,10 +31,10 @@ Visit the Microsoft Edge WebDriver download page
 
 Download the x64 version that matches your Edge browser
 
-Place msedgedriver.exe in the same folder as WhatsAppScamDisruptor.py
+Place msedgedriver.exe in the same folder as WAScamDisruptor.py
 
 4. Configure the Script
-Open WhatsAppScamDisruptor.py and update:
+Open WAScamDisruptor.py and update:
 
 The path to msedgedriver.exe under # Use Edge WebDriver
 
@@ -46,11 +46,11 @@ Open Command Prompt as Administrator
 Navigate to the script folder:
 
 bash
-cd path\to\WhatsAppScamDisruptor
+cd path\to\WAScamDisruptor
 Run the script:
 
 bash
-python WhatsAppScamDisruptor.py
+python WAScamDisruptor.py
 Scan the QR code to log into WhatsApp Web
 
 Once logged in, return to the Command Prompt and press Enter
