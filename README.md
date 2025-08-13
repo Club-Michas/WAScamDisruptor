@@ -13,6 +13,16 @@
 - Simple setup using Selenium and Edge WebDriver
 
 ---
+## 🚧 Planned Features
+- [ ] GUI interface for easy control
+- [ ] Language selection (German, English, etc.)
+- [ ] Config file for clean separation of settings
+- [ ] Modular message packs (warnings, satire, etc.)
+- [ ] Persona simulation (fake scammer/victim dialogues)
+- [ ] **Multisession support for parallel personas**
+- [ ] Message flood engine with interval control
+- [ ] Stats tracker (messages sent, groups joined)
+---
 
 ## 🚀 Getting Started
 
