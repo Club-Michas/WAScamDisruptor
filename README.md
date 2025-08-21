@@ -27,7 +27,14 @@
 ## 🚀 Getting Started
 
 ### 1. Download the Script
-Grab the `WAScamDisruptor.py`, `config.json`, and either `messages_en.json` or `messages_de.json` file from this repository (depending on the spoken group language).
+Grab the `WAScamDisruptor.py`, `config.json`, and one of the message files like `messages_en.json`.
+
+Scam warning messages are available in multiple languages. Use the one that fits your target audience:
+
+- `messages_en.json` – English (default)
+- `messages_de.json` – German
+- `messages_pl.json` – Polish
+- `messages_nl.json` – Dutch
 
 ### 2. Install Dependencies
 Make sure Python is installed, then run:
