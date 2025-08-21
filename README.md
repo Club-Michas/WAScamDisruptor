@@ -27,7 +27,7 @@
 ## 🚀 Getting Started
 
 ### 1. Download the Script
-Grab the `WAScamDisruptor.py` file from this repository.
+Grab the `WAScamDisruptor.py`, `config.json`, and either `messages_en.json` or `messages_de.json` file from this repository (depending on the spoken group language).
 
 ### 2. Install Dependencies
 Make sure Python is installed, then run:
@@ -47,12 +47,11 @@ Download the x64 version that matches your Edge browser
 
 Place msedgedriver.exe in the same folder as WAScamDisruptor.py
 
-### 4. Configure the Script
-Open WAScamDisruptor.py and update:
-
-The path to msedgedriver.exe under # Use Edge WebDriver
-
-The group name under # Search for the group (replace "TYPE IN THE SCAM GROUP HERE")
+### 4. Configure the Config file:
+Edit the `config.json` file with your own values:
+   - `driver_path`: Path to your `msedgedriver.exe`
+   - `group_name`: Name of your WhatsApp group
+   - `messages_file`: Choose your language file (e.g. `messages_en.json`, `messages_de.json`)
 
 ### 5. Run the Script
 Open Command Prompt as Administrator
