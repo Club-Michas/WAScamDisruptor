@@ -11,12 +11,12 @@
 - Customizable message sets
 - Randomized delays to mimic human behavior
 - Simple setup using Selenium and Edge WebDriver
+- Config file for clean separation of settings
 
 ---
 ## 🚧 Planned Features
 - [ ] GUI interface for easy control
 - [ ] Language selection (German, English, etc.)
-- [ ] Config file for clean separation of settings
 - [ ] Modular message packs (warnings, satire, etc.)
 - [ ] Persona simulation (fake scammer/victim dialogues)
 - [ ] **Multisession support for parallel personas**
