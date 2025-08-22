@@ -69,7 +69,7 @@ Scam warning messages are available in multiple languages. Use the one that fits
 - `messages_nl.json` – Dutch
 
 ### 5. Run the Script
-Open Command Prompt as Administrator
+Open `Command Prompt`
 
 Navigate to the script folder:
 
