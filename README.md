@@ -35,14 +35,8 @@
 ## 🚀 Getting Started
 
 ### 1. Download the Script
-Grab the `WAScamDisruptor.py`, `config.json`, and one of the message files like `messages_en.json`.
+Grab the `WAScamDisruptor.py`, and the `config` folder.
 
-Scam warning messages are available in multiple languages. Use the one that fits your target audience:
-
-- `messages_en.json` – English (default)
-- `messages_de.json` – German
-- `messages_pl.json` – Polish
-- `messages_nl.json` – Dutch
 
 ### 2. Install Dependencies
 Make sure Python is installed, then run:
@@ -60,25 +54,33 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13L
 
 Download the x64 version that matches your Edge browser
 
-Place msedgedriver.exe in the same folder as WAScamDisruptor.py
+Place `msedgedriver.exe` into the `config/driver` folder.
 
 ### 4. Configure the Config file:
 Edit the `config.json` file with your own values:
-   - `driver_path`: Path to your `msedgedriver.exe`
    - `group_name`: Name of your WhatsApp group
    - `messages_file`: Choose your language file (e.g. `messages_en.json`, `messages_de.json`)
+
+Scam warning messages are available in multiple languages. Use the one that fits your target audience:
+
+- `messages_en.json` – English (default)
+- `messages_de.json` – German
+- `messages_pl.json` – Polish
+- `messages_nl.json` – Dutch
 
 ### 5. Run the Script
 Open Command Prompt as Administrator
 
 Navigate to the script folder:
 
-bash
+```bash
 cd path\to\WAScamDisruptor
+```
 Run the script:
 
-bash
+```bash
 python WAScamDisruptor.py
+```
 Scan the QR code to log into WhatsApp Web
 
 Once logged in, return to the Command Prompt and press Enter
