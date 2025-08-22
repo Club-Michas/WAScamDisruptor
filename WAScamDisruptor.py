@@ -8,7 +8,7 @@ import os
 
 # Load config
 try:
-    with open("config.json", "r", encoding="utf-8") as config_file:
+    with open("config/config.json", "r", encoding="utf-8") as config_file:
         config = json.load(config_file)
 except Exception as e:
     print(f" Failed to load config.json: {e}")
