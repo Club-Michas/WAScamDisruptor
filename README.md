@@ -13,15 +13,23 @@
 - Simple setup using Selenium and Edge WebDriver
 - Config file for clean separation of settings
 
+### Browser Support
+ ✅ Microsoft Edge
+  
+ 🕒 Google Chrome (comming soon)
+
+ 🕒 Firefox (comming soon)
+
 ---
 ## 🚧 Planned Features
-- [ ] GUI interface for easy control
-- [ ] Language selection (German, English, etc.)
-- [ ] Modular message packs (warnings, satire, etc.)
-- [ ] Persona simulation (fake scammer/victim dialogues)
-- [ ] **Multisession support for parallel personas**
-- [ ] Message flood engine with interval control
-- [ ] Stats tracker (messages sent, groups joined)
+-  GUI interface for easy control
+-  Language selection (German, English, etc.)
+-  Modular message packs (warnings, satire, etc.)
+-  Persona simulation (fake scammer/victim dialogues)
+-  **Multisession support for parallel personas**
+-  Message flood engine with interval control
+-  Stats tracker (messages sent, groups joined)
+-  Automatic Browser Driver detection
 ---
 
 ## 🚀 Getting Started
