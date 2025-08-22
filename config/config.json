@@ -1,0 +1,5 @@
+{
+  "driver_path": "config/driver/msedgedriver.exe",
+  "group_name": "TYPE THE GROUP NAME HERE",
+  "messages_file": "config/messages/messages_en.json"
+}
