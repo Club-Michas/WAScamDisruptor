@@ -13,7 +13,7 @@
 - Simple setup using Selenium and Edge WebDriver
 - Config file for clean separation of settings
 
-### Browser Support
+### Browser Driver Support
  ✅ Microsoft Edge
   
  🕒 Google Chrome (comming soon)
