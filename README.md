@@ -12,6 +12,8 @@
 - Randomized delays to mimic human behavior
 - Simple setup using Selenium and Edge WebDriver
 - Config file for clean separation of settings
+- Multilanguage support: `English`, `German`, `Dutch`, and `Polish` (more coming soon)
+
 
 ### Browser Driver Support
  ✅ Microsoft Edge
