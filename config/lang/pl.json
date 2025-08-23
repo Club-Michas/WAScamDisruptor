@@ -1,0 +1,10 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "Nazwa grupy WhatsApp",
+  "language_label": "Docelowy język grupy",
+  "start_button": "Rozpocznij zakłócanie",
+  "stop_button": "Zatrzymaj",
+  "qr_button": "Kod QR zeskanowany",
+  "settings_button": "Ustawienia",
+  "about_text": "Stworzone przez Michael Rozwadowski"
+}

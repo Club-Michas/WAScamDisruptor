@@ -1,0 +1,10 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "WhatsApp-groepnaam",
+  "language_label": "Doeltaal van de groep",
+  "start_button": "Start verstoring",
+  "stop_button": "Stoppen",
+  "qr_button": "QR-code gescand",
+  "settings_button": "Instellingen",
+  "about_text": "Gemaakt door Michael Rozwadowski"
+}
