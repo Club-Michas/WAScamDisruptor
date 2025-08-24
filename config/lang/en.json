@@ -2,6 +2,7 @@
   "title": "WAScamDisruptor",
   "group_label": "WhatsApp Group:",
   "language_label": "Targeted Audience Language",
+  "gui_language_label": "GUI Language",
   "start_button": "Start Disruption",
   "stop_button": "Stop Disrution",
   "qr_button": "Confirm QR Code",
