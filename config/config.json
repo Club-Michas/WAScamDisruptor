@@ -1,5 +1,12 @@
 {
-  "driver_path": "config/driver/msedgedriver.exe",
-  "group_name": "TYPE THE GROUP NAME HERE",
-  "messages_file": "config/messages/messages_en.json"
+    "driver_path": "config/driver/msedgedriver.exe",
+    "default_gui_language": "en",
+    "message_folder": "config/messages/",
+    "theme_mode": "dark",
+    "language_codes": {
+        "English": "en",
+        "German": "de",
+        "Dutch": "nl",
+        "Polish": "pl"
+    }
 }
