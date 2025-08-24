@@ -12,6 +12,7 @@
 - Randomized delays to mimic human behavior
 - Simple setup using Selenium and Edge WebDriver
 - Config file for clean separation of settings
+- GUI for easy control (Beta)
 - Multilanguage support: `English`, `German`, `Dutch`, and `Polish` (more coming soon)
 
 
@@ -24,7 +25,7 @@
 
 ---
 ## 🚧 Planned Features
--  GUI interface for easy control
+-  Even better/nicer GUI
 -  Language selection (German, English, etc.)
 -  Modular message packs (warnings, satire, etc.)
 -  Persona simulation (fake scammer/victim dialogues)
@@ -56,38 +57,25 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13L
 
 Download the x64 version that matches your Edge browser
 
-Place `msedgedriver.exe` into the `config/driver` folder.
-
-### 4. Configure the Config file:
-Edit the `config.json` file with your own values:
-   - `group_name`: Name of your WhatsApp group
-   - `messages_file`: Choose your language file (e.g. `messages_en.json`, `messages_de.json`)
-
-Scam warning messages are available in multiple languages. Use the one that fits your target audience:
-
-- `messages_en.json` – English (default)
-- `messages_de.json` – German
-- `messages_pl.json` – Polish
-- `messages_nl.json` – Dutch
+Place `msedgedriver.exe` into the `config/driver` folder
 
 ### 5. Run the Script
-Open `Command Prompt`
 
 Navigate to the script folder:
 
-```bash
-cd path\to\WAScamDisruptor
-```
-Run the script:
+Open `WAScamDisruptor.py`
 
-```bash
-python WAScamDisruptor.py
-```
-Scan the QR code to log into WhatsApp Web
+Enter the name of the WhatsApp Scam Group
 
-Once logged in, return to the Command Prompt and press Enter
+Select the Targeted Audience Language
 
-Let the disruption begin.
+Click on `Start Disruption`
+
+Scan the QR code to log into WhatsApp Web.
+
+Once logged in, click on `Confirm QR Code`
+
+Let the disruption begin
 
 ### 🤝 Contributing
 Pull requests welcome! You can contribute by:
