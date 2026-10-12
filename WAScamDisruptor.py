@@ -1,5 +1,5 @@
 """
-WAScamDisruptor — WhatsApp scam-awareness broadcaster.
+WAScamDisruptor: WhatsApp scam-awareness broadcaster.
 
 Modern Tkinter UI using sv_ttk (light/dark theme), ttk widgets only,
 thread-safe updates via a queue, and Selenium Manager for driver handling.
