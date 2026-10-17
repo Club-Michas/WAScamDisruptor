@@ -1,12 +1,20 @@
 {
-    "driver_path": "config/driver/msedgedriver.exe",
     "default_gui_language": "en",
     "message_folder": "config/messages/",
     "theme_mode": "dark",
     "language_codes": {
-        "English": "en",
-        "German": "de",
         "Dutch": "nl",
-        "Polish": "pl"
+        "English": "en",
+        "French": "fr",
+        "German": "de",
+        "Hindi": "hi",
+        "Italian": "it",
+        "Japanese": "ja",
+        "Korean": "ko",
+        "Polish": "pl",
+        "Portuguese": "pt",
+        "Russian": "ru",
+        "Simplified Chinese": "zh",
+        "Spanish": "es"
     }
 }
