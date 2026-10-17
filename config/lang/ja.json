@@ -1,0 +1,11 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "WhatsAppグループ:",
+  "language_label": "対象オーディエンスの言語",
+  "gui_language_label": "UI言語",
+  "start_button": "妨害を開始",
+  "stop_button": "妨害を停止",
+  "qr_button": "QRコードを確認",
+  "settings_button": "設定",
+  "about_text": "開発: Michael Rozwadowski"
+}

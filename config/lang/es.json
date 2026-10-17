@@ -1,0 +1,11 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "Grupo de WhatsApp:",
+  "language_label": "Idioma del público objetivo",
+  "gui_language_label": "Idioma de la interfaz",
+  "start_button": "Iniciar interrupción",
+  "stop_button": "Detener interrupción",
+  "qr_button": "Confirmar código QR",
+  "settings_button": "Ajustes",
+  "about_text": "Desarrollado por Michael Rozwadowski"
+}

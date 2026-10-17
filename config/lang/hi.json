@@ -1,0 +1,11 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "WhatsApp समूह:",
+  "language_label": "लक्षित दर्शक भाषा",
+  "gui_language_label": "इंटरफ़ेस भाषा",
+  "start_button": "व्यवधान शुरू करें",
+  "stop_button": "व्यवधान रोकें",
+  "qr_button": "QR कोड की पुष्टि करें",
+  "settings_button": "सेटिंग्स",
+  "about_text": "Michael Rozwadowski द्वारा विकसित"
+}

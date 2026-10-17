@@ -1,0 +1,11 @@
+{
+  "title": "WAScamDisruptor",
+  "group_label": "WhatsApp 群组：",
+  "language_label": "目标受众语言",
+  "gui_language_label": "界面语言",
+  "start_button": "开始干扰",
+  "stop_button": "停止干扰",
+  "qr_button": "确认二维码",
+  "settings_button": "设置",
+  "about_text": "由 Michael Rozwadowski 开发"
+}
