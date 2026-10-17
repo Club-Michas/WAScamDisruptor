@@ -12,8 +12,8 @@
 - Randomized delays to mimic human behavior
 - Simple setup using Selenium and Edge WebDriver
 - Config file for clean separation of settings
-- GUI for easy control (Beta)
-- Multilanguage support: `English`, `German`, `Dutch`, and `Polish` (more coming soon)
+- GUI for easy control
+- Multilanguage support: `Dutch`, `English`, `French`, `German`, `Hindi`, `Italian`, `Japanese`, `Korean`, `Polish`, `Portuguese`, `Russian`, `Simplified Chinese` and `Spanish`
 
 
 ### Browser Driver Support
@@ -26,7 +26,6 @@
 ---
 ## 🚧 Planned Features
 -  Even better/nicer GUI
--  Language selection (German, English, etc.)
 -  Modular message packs (warnings, satire, etc.)
 -  Persona simulation (fake scammer/victim dialogues)
 -  **Multisession support for parallel personas**
